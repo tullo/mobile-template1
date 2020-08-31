@@ -15,7 +15,7 @@
     "pg": "^3.4.4",
     "socket.io": "^1.1.0",
     "sqlite3": "^3.0.0",
-    "validator": "~3.5.0",
+    "validator": "~13.1.1",
     "websocket": "^1.0.8"
   },
   "engines": {
